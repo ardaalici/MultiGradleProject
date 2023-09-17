@@ -1,0 +1,4 @@
+rootProject.name = 'RootProject'
+include 'lib'
+include 'Test'
+
